@@ -7,4 +7,3 @@ steps:
     description: Build an Image with the Dockerfile in Root Directory
     image_name: AxelEric/yaml-example-dockerfile-inroot
     dockerfile: Dockerfile
-    tag: ${{CF_BRANCH}}
